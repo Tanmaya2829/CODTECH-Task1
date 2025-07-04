@@ -1,0 +1,2 @@
+C:/Users/91940/Desktop/test_folder\note1.txt|00b6cbe7e1f0d6b5c1e2ad85a381d2dfd268e54270a8b6ed58ca89ba549507d6
+C:/Users/91940/Desktop/test_folder\note2.txt|0318f9697fa1f7d417c479c69d06cc882404490465a2faed5ea7d666a2ee95eb
